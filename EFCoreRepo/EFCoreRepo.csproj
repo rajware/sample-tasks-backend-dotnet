@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
-    <ProjectReference Include="..\Tasks\Tasks.csproj" />
+    <ProjectReference Include="..\Tasks\Tasks.vbproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -2,7 +2,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\EFCoreRepo\EFCoreRepo.csproj" />
-    <ProjectReference Include="..\Tasks\Tasks.csproj" />
   </ItemGroup>
 
   <ItemGroup>
