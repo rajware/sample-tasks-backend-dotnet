@@ -1,7 +1,7 @@
 namespace Rajware.Sample.Tasks;
 
 public class TasksContext {
-    private ITaskRepository repo;
+    private readonly ITaskRepository repo;
 
     public Task AddTask(string description, DateTime deadline) {
         var newTask = new Task(){
